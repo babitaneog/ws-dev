@@ -1,0 +1,12 @@
+name = Send Confirmation Email on Succesful Registration
+description = Send Confirmation Email on Succesful Registration.
+package = pfizer
+core = 7.x
+
+; Information added by drupal.org packaging script on 2013-06-12
+version = "7.x-1.x"
+core = "7.x"
+project = "pfe_qub_register_confirm_email"
+dependencies[] = variable
+dependencies[] = variable_store
+
